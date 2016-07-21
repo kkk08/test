@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello World!
 Hallo Mac!
+=======
+Hello World!
+>>>>>>> origin/master
